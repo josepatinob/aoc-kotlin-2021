@@ -2,7 +2,6 @@ import java.io.File
 import java.math.BigInteger
 import java.security.MessageDigest
 import java.time.Duration
-import java.util.concurrent.TimeUnit
 
 /**
  * Reads lines from the given input txt file.
